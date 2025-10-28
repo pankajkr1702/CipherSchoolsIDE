@@ -1,0 +1,4 @@
+MONGO_URI=mongodb+srv://user:password@cluster0.mongodb.net/codecraft
+PORT=4000
+JWT_SECRET=replace-with-strong-secret
+
